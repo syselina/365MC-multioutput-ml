@@ -164,8 +164,8 @@ The included CDSS is a prototype implementation and should be interpreted as a d
 
 ## 📝 Manuscript Status & Project Timeline
 
-The associated manuscript is currently under revision at a confidential SCI-indexed journal.  
-The journal name and detailed submission information are not disclosed in this public repository.
+The associated manuscript was published in September 2026 in an SCI-indexed journal.
+This repository documents the project development timeline, including model implementation, manuscript preparation, peer review, and publication.
 
 | Date | Milestone | Status |
 |------|-----------|--------|
