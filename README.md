@@ -177,7 +177,7 @@ The journal name and detailed submission information are not disclosed in this p
 | 2026-06-01 | 1st revision completed | Complete |
 | 2026-06-30 | 2nd minor revision initiated | Complete |
 | 2026-08-13 | 2nd minor revision completed | Complete |
-| 2026-09-26 | Published | Complete |
+| 2026-09-23 | Published | Complete |
 
 ---
 
