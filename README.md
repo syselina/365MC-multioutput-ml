@@ -175,7 +175,9 @@ The journal name and detailed submission information are not disclosed in this p
 | 2025-08-17 | Manuscript submitted to SCI-indexed journal | Complete |
 | 2026-05-12 | 1st revision initiated | Complete |
 | 2026-06-01 | 1st revision completed | Complete |
-| 2026-06-30 | 2nd minor revision initiated | In progress |
+| 2026-06-30 | 2nd minor revision initiated | Complete |
+| 2026-08-13 | 2nd minor revision completed | Complete |
+| 2026-09-26 | Published | Complete |
 
 Current manuscript status: **under SCI journal review, second revision in progress**.
 
