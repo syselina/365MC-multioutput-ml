@@ -179,8 +179,6 @@ The journal name and detailed submission information are not disclosed in this p
 | 2026-08-13 | 2nd minor revision completed | Complete |
 | 2026-09-26 | Published | Complete |
 
-Current manuscript status: **under SCI journal review, second revision in progress**.
-
 ---
 
 
